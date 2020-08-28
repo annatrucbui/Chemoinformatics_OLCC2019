@@ -1,0 +1,2 @@
+# Chemoinformatics_OLCC2019
+Miniprojects from Chemoinformatics Introduction Course OLCC2019
